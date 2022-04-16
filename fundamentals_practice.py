@@ -1,12 +1,12 @@
 print ("hello world")    #hello world
-name = "David"
-age = 17
-years_at_hth = 0.1
-plays_basketball = False
-jersey_number = "n/a"
-car_name = "Acura", "honda", "toyota", "nissan", "subaru", 
-x = 50 
-first_name = "David" 
+name = "David" #string
+age = 17 #Integer 
+years_at_hth = 0.1 #FLoat
+plays_basketball = False #Boolean 
+jersey_number = "n/a" #string
+car_name = "Acura", "honda", "toyota", "nissan", "subaru", #sequence 
+x = 50 #integeger 
+first_name = "David" #string 
 print(name)
 print(age)
 print("years")
